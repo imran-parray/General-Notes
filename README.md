@@ -21,7 +21,7 @@ https://www.youtube.com/watch?v=SwLdKeC8scE
 
 ## Understanding DNS
 ###### Although you may not like the quality of the vidoes they are best one on internet
-https://www.youtube.com/watch?v=Hk0FjTIxSrI     [part 1]
+https://www.youtube.com/watch?v=Hk0FjTIxSrI     [part 1] 
 https://www.youtube.com/watch?v=a_jCXHTYF4c     [part 2]
 https://www.cisco.com/c/en/us/td/docs/net_mgmt/prime/network_registrar/9-0/dns/guide/DNS_Guide/DNS_Guide_chapter_00.pdf
 
