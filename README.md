@@ -28,7 +28,7 @@ https://www.youtube.com/watch?v=a_jCXHTYF4c     [part 2]
 https://www.cisco.com/c/en/us/td/docs/net_mgmt/prime/network_registrar/9-0/dns/guide/DNS_Guide/DNS_Guide_chapter_00.pdf
 
 
-#DNS SECURITY
+# DNS SECURITY
 https://www.youtube.com/playlist?list=PLEGgkEr0ifYuHzA5wJnAmAvFVZvoIXrj4
 https://www.cloudflare.com/learning/dns/dns-security/
 
