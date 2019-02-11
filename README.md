@@ -51,16 +51,16 @@ https://www.youtube.com/watch?v=DrI2lUXL1no
 https://www.thegeekstuff.com/2012/04/curl-examples/
 https://medium.freecodecamp.org/how-much-can-you-curl-3c88e2fed3f6
 
-## HTTP HEADERS
+## Understanding HTTP HEADERS
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers
 
 
-## Load Balancers
+## How Load Balancers work
 https://www.youtube.com/watch?v=7LMaAVwZE2c
 https://tools.kali.org/information-gathering/lbd
 
 
-## Server Management
+## How server Management works.
 
 learn how to do server management on nginx server will be enough to undetstand how server are managed and what are the 
 mistakes than can be done
