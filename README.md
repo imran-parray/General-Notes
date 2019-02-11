@@ -22,19 +22,22 @@ https://www.youtube.com/watch?v=SwLdKeC8scE
 ## Understanding DNS
 ###### Although you may not like the quality of the vidoes they are best one on internet
 https://www.youtube.com/watch?v=Hk0FjTIxSrI     [part 1]
-
 https://www.youtube.com/watch?v=a_jCXHTYF4c     [part 2]
-
 https://www.cisco.com/c/en/us/td/docs/net_mgmt/prime/network_registrar/9-0/dns/guide/DNS_Guide/DNS_Guide_chapter_00.pdf
 
 
-# DNS SECURITY
+## Undetstanding DNS SECURITY
 https://www.youtube.com/playlist?list=PLEGgkEr0ifYuHzA5wJnAmAvFVZvoIXrj4
 https://www.cloudflare.com/learning/dns/dns-security/
 
 
 
-## CDN
+## Getting familiar with DIG 
+https://www.rootusers.com/12-dig-command-examples-to-query-dns-in-linux/
+
+
+
+## How CDN Work
 
 https://www.youtube.com/watch?v=farO15_0NUQ
 https://www.cloudflare.com/learning/cdn/what-is-a-cdn/
