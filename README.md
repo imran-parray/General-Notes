@@ -1,10 +1,37 @@
+# Understading and Learning Linux
+
+### Learning Shell
+http://linuxcommand.org/lc3_learning_the_shell.php
+
+
+### Linux File system
+https://www.youtube.com/watch?v=HIXzJ3Rz9po
+
+# Web Severs
+
+### How they work
+https://www.youtube.com/watch?v=RsQ1tFLwldY
+
+### How to setup your own server
+https://www.youtube.com/watch?v=R5CUn5wGQGg
+
+
+# Programming
+### HTML
+https://www.youtube.com/playlist?list=PLr6-GrHUlVf_ZNmuQSXdS197Oyr1L9sPB
+
+### Javascript 
+https://www.youtube.com/watch?v=W6NZfCO5SIk
+
+
 # Networking-Resources for Bug Bounties
 
 Having knowledge about computer networks plays an very important role in Bug Bounties. 
 Alot of people doing bug bouties have less knowledge about how different communication systems work. So Here are some of the 
 resources which can be used by "Bug Hunters" to expand thir thoughts on computer networks.
 
-
+### Undetstanding basic concepts
+https://commotionwireless.net/docs/cck/networking/learn-networking-basics/
 
 ### Understanding OSI Model 
 ###### [Dont waste too much time on this as this is more theoritical]
@@ -12,8 +39,11 @@ resources which can be used by "Bug Hunters" to expand thir thoughts on computer
 https://www.youtube.com/watch?v=-6Uoku-M6oY
 https://www.geeksforgeeks.org/layers-osi-model/
 
+### Understanding TCP/IP model
+http://www.steves-internet-guide.com/internet-protocol-suite-explained/
+https://www.geeksforgeeks.org/computer-network-tcpip-model/
 
-### Understanding CLIENT - SEVER ARCH
+### Understanding CLIENT - SEVER ARTITECTURE
 ###### One video is enough
 https://www.youtube.com/watch?v=SwLdKeC8scE
 
