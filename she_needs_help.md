@@ -75,6 +75,10 @@ ye che ne me paye ye kya gov `praposed system` __yet krxe pania__
 ---
 
 
+## Praposal Link
+
+<https://docs.google.com/document/d/1-Jg2tK5A97NtOjso2bIDmZglyfNE1fN2BIYUhaZ0Rps/edit?usp=sharing>
+
 ## Where should you start 
 > tip: Before starting the project report read whats is Pentesting and Automated Pentesting
 
