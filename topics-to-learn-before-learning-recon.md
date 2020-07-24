@@ -15,3 +15,16 @@
 - ASN (DNS)
 - CIDR 
 - HTTP response codes
+
+
+## Day 2
+
+- Dirsearch 
+- nmap
+- gobuster
+- paraminer
+- seclist 
+- httprobe
+- findomains
+- amass
+- massdns
