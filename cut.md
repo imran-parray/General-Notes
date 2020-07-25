@@ -10,14 +10,17 @@ three:3:333
 
 
 
-__Reading Bytes__
+__Reading Byte 1__
 ```console
 root@root:~/Desktop/temp# cat file.txt | cut -b 1
 n
 o
 t
 t
+```
 
+__Reading Byte 1,2 and 3__
+```console
 root@root:~/Desktop/temp# cat file.txt | cut -b 1,2,3
 nam
 one
@@ -28,20 +31,29 @@ thr
 
 
 
-__Reading Byte Range__
+__Reading Byte Range from 1-3__
 ```console
 root@root:~/Desktop/temp# cat file.txt | cut -b 1-3
 nam
 one
 two
 thr
+```
+
+
+__Reading Byte range from 1-4__
+```console
 
 root@root:~/Desktop/temp# cat file.txt | cut -b -4     [Starting to 4]
 name
 one:
 two:
 thre
+```
 
+
+__Reading Byte 2-end__
+```console
 
 root@root:~/Desktop/temp# cat file.txt | cut -b 2-     [start from 2 to end]
 ame:age:color
