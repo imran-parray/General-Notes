@@ -201,20 +201,20 @@ root@root:~/Desktop/temp# cat file.txt
 "c":"3",
 }
 
+root@root:~/Desktop/temp# cat file.txt | grep ':'
+"a":"1",
+"b":"2",
+"c":"3",
 
-root@root:~/Desktop/temp# cat file.txt | cut -d'"' -f2
-{
-a
-b
-c
-}
+root@root:~/Desktop/temp# cat file.txt | grep ':' | cut -d':' -f1
+"a"
+"b"
+"c"
 
-
-root@root:~/Desktop/temp# cat file.txt | cut -d'"' -f4
-{
-1
-2
-3
-}
+root@root:~/Desktop/temp# cat file.txt | grep ':' | cut -d':' -f2
+"1",
+"2",
+"3",
+root@root:~/Desktop/temp# 
 
 ```
